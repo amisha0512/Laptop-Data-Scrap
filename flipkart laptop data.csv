@@ -1,0 +1,842 @@
+,Name,Rating,Current Price,Original Price,Discount,Features
+0,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+1,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+2,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+3,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+4,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+5,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+6,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+7,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+8,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+9,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+10,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+11,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+12,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+13,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+14,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+15,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+16,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+17,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+18,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+19,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+20,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+21,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+22,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+23,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+24,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+25,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+26,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+27,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+28,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+29,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+30,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+31,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+32,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+33,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+34,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+35,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+36,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+37,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+38,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+39,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+40,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+41,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+42,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+43,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+44,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+45,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+46,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+47,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+48,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+49,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+50,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+51,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+52,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+53,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+54,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+55,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+56,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+57,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+58,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+59,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+60,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+61,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+62,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+63,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+64,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+65,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+66,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+67,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+68,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+69,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+70,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+71,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+72,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+73,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+74,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+75,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+76,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+77,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+78,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+79,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+80,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+81,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+82,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+83,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+84,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+85,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+86,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+87,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+88,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+89,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+90,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+91,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+92,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+93,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+94,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+95,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+96,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+97,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+98,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+99,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+100,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+101,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+102,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+103,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+104,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+105,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+106,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+107,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+108,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+109,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+110,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+111,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+112,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+113,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+114,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+115,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+116,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+117,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+118,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+119,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+120,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+121,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+122,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+123,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+124,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+125,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+126,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+127,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+128,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+129,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+130,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+131,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+132,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+133,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+134,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+135,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+136,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+137,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+138,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+139,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+140,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+141,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+142,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+143,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+144,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+145,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+146,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+147,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+148,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+149,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+150,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+151,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+152,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+153,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+154,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+155,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+156,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+157,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+158,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+159,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+160,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+161,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+162,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+163,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+164,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+165,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+166,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+167,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+168,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+169,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+170,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+171,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+172,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+173,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+174,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+175,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+176,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+177,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+178,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+179,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+180,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+181,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+182,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+183,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+184,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+185,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+186,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+187,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+188,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+189,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+190,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+191,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+192,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+193,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+194,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+195,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+196,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+197,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+198,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+199,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+200,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+201,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+202,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+203,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+204,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+205,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+206,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+207,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+208,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+209,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+210,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+211,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+212,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+213,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+214,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+215,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+216,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+217,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+218,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+219,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+220,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+221,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+222,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+223,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+224,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+225,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+226,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+227,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+228,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+229,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+230,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+231,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+232,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+233,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+234,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+235,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+236,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+237,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+238,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+239,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+240,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+241,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+242,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+243,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+244,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+245,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+246,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+247,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+248,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+249,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+250,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+251,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+252,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+253,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+254,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+255,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+256,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+257,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+258,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+259,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+260,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+261,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+262,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+263,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+264,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+265,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+266,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+267,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+268,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+269,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+270,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+271,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+272,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+273,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+274,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+275,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+276,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+277,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+278,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+279,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+280,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+281,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+282,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+283,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+284,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+285,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+286,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+287,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+288,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+289,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+290,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+291,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+292,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+293,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+294,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+295,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+296,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+297,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+298,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+299,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+300,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+301,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+302,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+303,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+304,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+305,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+306,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+307,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+308,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+309,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+310,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+311,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+312,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+313,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+314,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+315,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+316,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+317,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+318,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+319,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+320,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+321,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+322,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+323,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+324,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+325,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+326,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+327,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+328,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+329,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+330,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+331,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+332,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+333,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+334,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+335,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+336,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+337,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+338,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+339,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+340,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+341,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+342,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+343,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+344,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+345,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+346,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+347,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+348,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+349,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+350,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+351,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+352,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+353,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+354,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+355,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+356,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+357,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+358,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+359,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+360,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+361,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+362,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+363,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+364,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+365,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+366,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+367,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+368,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+369,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+370,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+371,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+372,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+373,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+374,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+375,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+376,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+377,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+378,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+379,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+380,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+381,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+382,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+383,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+384,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+385,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+386,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+387,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+388,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+389,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+390,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+391,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+392,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+393,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+394,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+395,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+396,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+397,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+398,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+399,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+400,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+401,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+402,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+403,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+404,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+405,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+406,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+407,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+408,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+409,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+410,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+411,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+412,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+413,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+414,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+415,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+416,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+417,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+418,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+419,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+420,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+421,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+422,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+423,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+424,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+425,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+426,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+427,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+428,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+429,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+430,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+431,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+432,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+433,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+434,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+435,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+436,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+437,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+438,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+439,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+440,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+441,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+442,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+443,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+444,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+445,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+446,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+447,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+448,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+449,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+450,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+451,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+452,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+453,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+454,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+455,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+456,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+457,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+458,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+459,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+460,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+461,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+462,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+463,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+464,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+465,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+466,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+467,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+468,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+469,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+470,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+471,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+472,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+473,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+474,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+475,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+476,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+477,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+478,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+479,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+480,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+481,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+482,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+483,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+484,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+485,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+486,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+487,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+488,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+489,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+490,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+491,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+492,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+493,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+494,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+495,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+496,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+497,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+498,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+499,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+500,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+501,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+502,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+503,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+504,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+505,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+506,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+507,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+508,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+509,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+510,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+511,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+512,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+513,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+514,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+515,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+516,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+517,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+518,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+519,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+520,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+521,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+522,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+523,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+524,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+525,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+526,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+527,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+528,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+529,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+530,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+531,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+532,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+533,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+534,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+535,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+536,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+537,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+538,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+539,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+540,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+541,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+542,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+543,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+544,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+545,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+546,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+547,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+548,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+549,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+550,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+551,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+552,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+553,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+554,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+555,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+556,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+557,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+558,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+559,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+560,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+561,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+562,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+563,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+564,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+565,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+566,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+567,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+568,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+569,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+570,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+571,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+572,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+573,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+574,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+575,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+576,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+577,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+578,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+579,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+580,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+581,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+582,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+583,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+584,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+585,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+586,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+587,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+588,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+589,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+590,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+591,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+592,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+593,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+594,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+595,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+596,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+597,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+598,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+599,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+600,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+601,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+602,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+603,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+604,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+605,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+606,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+607,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+608,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+609,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+610,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+611,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+612,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+613,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+614,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+615,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+616,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+617,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+618,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+619,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+620,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+621,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+622,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+623,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+624,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+625,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+626,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+627,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+628,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+629,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+630,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+631,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+632,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+633,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+634,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+635,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+636,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+637,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+638,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+639,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+640,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+641,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+642,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+643,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+644,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+645,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+646,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+647,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+648,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+649,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+650,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+651,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+652,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+653,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+654,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+655,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+656,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+657,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+658,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+659,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+660,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+661,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+662,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+663,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+664,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+665,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+666,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+667,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+668,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+669,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+670,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+671,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+672,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System35.56 cm (14 Inch) Display1 Year Onsite Warranty
+673,HP Chromebook (2024) MediaTek MT8183,3.8,"₹13,990","₹34,554",59%,MediaTek MT8183 Processor4 GB LPDDR4X RAMChrome Operating System29.46 cm (11.6 Inch) Display1 Year Carry-in Warranty
+674,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,4.2,"₹27,490","₹59,400",53%,AMD Ryzen 3 Quad Core Processor8 GB LPDDR5 RAMWindows 11 Operating System512 GB SSD100.63 cm (39.62 cm) Display1 Year Onsite Warranty
+675,HP AMD Ryzen 3 Quad Core 5300U,4.2,"₹31,990","₹47,147",32%,"AMD Ryzen 3 Quad Core Processor8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2019 & Office 365, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+676,HP 255 G9 AMD Ryzen 3 Dual Core R3 3250,4.1,"₹25,990","₹37,188",30%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite warranty by OEM
+677,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,4.2,"₹25,990","₹40,532",35%,AMD Ryzen 3 Dual Core Processor8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) DisplayNA1 Year Onsite Warranty
+678,CHUWI Intel Celeron Dual Core 11th Gen N4020,3.7,"₹16,490","₹34,990",52%,"Light weight, Portable Laptop
+RAM/Storage: 8GB LPDDR4 Ram, 256GB M.2 SSD StorageHard-Decoding 4k@60Hz
+Graphics/GPU: UHD Graphics 600
+Display: 14.1 inch, 16:9 IPS Display
+Touchpad: Larger Touchpad with easy control
+Keyboard: Chiclet keyboard keysIntel Celeron Dual Core Processor (11th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD35.81 cm (14.1 inch) DisplayWPS Office, Operating System Software1 Year Onsite Warranty"
+679,HP 14a Intel Celeron Dual Core N4500,3.7,"₹16,990","₹30,001",43%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAMChrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+680,DELL Intel Core i3 12th Gen 1215U,4.1,"₹37,890","₹62,841",39%,"Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 CoresRAM & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Integrated & Standard KeyboardDisplay: 15.6"" FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD96.52 cm (38 cm) Display1 Year Onsite Hardware Service"
+681,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,4.1,"₹52,800","₹78,900",33%,"Intel Core i5 Processor (12th Gen)16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayOffice Home & Student 2021, Microsoft Windows, 15 Months Macafee Antivirus1 Year Onsite Warranty"
+682,Acer Intel Celeron Dual Core N4500,3.6,"₹17,990","₹40,000",55%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+683,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹19,990","₹32,990",39%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+684,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,3.9,"₹31,990","₹60,999",47%,Intel Core i5 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD39.62 cm (15.6 Inch) Display1 Year Carry-in Warranty
+685,HP Intel Core i3 12th Gen 1215U,4.2,"₹41,490","₹51,134",18%,Intel Core i3 Processor (12th Gen)8 GB DDR4 RAMWindows 11 Operating System512 GB SSD35.56 cm (14 inch) Display1 Year Onsite warranty
+686,Lenovo V15 Intel Celeron Dual Core 4th Gen,4,"₹21,990","₹42,032",47%,Intel Celeron Dual Core Processor (4th Gen)8 GB DDR4 RAM64 bit Windows 11 Operating System256 GB SSD39.62 cm (15.6 inch) Display1 Years
+687,ASUS Vivobook 15 Intel Core i3 12th Gen i3,4.2,"₹39,990","₹60,990",34%,"Intel Core i3 Processor (12th Gen)8 GB DDR4 RAM64 bit Windows 11 Home Operating System512 GB SSD39.62 cm (15.6 inch) DisplayWindows 11, MS Office H&S 20211 Year Onsite Warranty"
+688,Acer Intel Celeron Dual Core N4500,3.8,"₹21,990","₹33,999",35%,Intel Celeron Dual Core Processor8 GB LPDDR4X RAMChrome Operating System35.56 cm (14 inch) Display1 Year Onsite Warranty
+689,ASUS Chromebook Intel Celeron Dual Core N4500,3.8,"₹15,990","₹32,990",51%,Intel Celeron Dual Core Processor4 GB LPDDR4X RAMChrome Operating System39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
+690,HP AMD Ryzen 5 Hexa Core 5500U,4.3,"₹44,990","₹59,109",23%,"AMD Ryzen 5 Hexa Core Processor16 GB DDR4 RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayMicrosoft Office 2021 Home & Student, HP Documentation, HP BIOS recovery, HP Smart1 Year Onsite Warranty"
+691,Infinix Y1 Plus Neo Intel Intel Celeron Quad Core 11th Gen JSL N5100,4,"₹22,990","₹26,390",12%,Intel Celeron Quad Core Processor (11th Gen)8 GB LPDDR4X RAMWindows 11 Operating System512 GB SSD39.01 cm (15.36 inch) Display1 Year Onsite Warranty
+692,HP 360 Intel Celeron Quad Core N4120,4,"₹18,990","₹31,156",39%,Intel Celeron Quad Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite warranty
+693,HP 360 Intel Celeron Dual Core N4120,3.9,"₹18,990","₹32,295",41%,Intel Celeron Dual Core Processor4 GB LPDDR4 RAM64 bit Chrome Operating System35.56 cm (14 Inch) Touchscreen Display1 Year Onsite Warranty
+694,Infinix Inbook Y2 Plus Intel Core i3 11th Gen 1115G4,4.1,"₹24,990","₹39,990",37%,Intel Core i3 Processor (11th Gen)8 GB LPDDR4X RAM64 bit Windows 11 Operating System512 GB SSD39.62 cm (15.6 inch) DisplayNA1 Year Onsite Warranty
+695,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,3.9,"₹19,450","₹27,057",28%,AMD Athlon Dual Core Processor4 GB DDR4 RAMDOS Operating System256 GB SSD39.62 cm (15.6 Inch) Display1 Year Onsite Warranty
